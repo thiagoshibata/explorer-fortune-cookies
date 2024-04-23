@@ -2,7 +2,7 @@
 
 <img src="./assets/capa.png"/>
 
-RESUMO: A aplicação consiste no usuário clicar na imagem com o biscoito da sorte e sortear uma frase da contida num Array.
+RESUMO: A aplicação consiste em que o usuário clique na imagem com o biscoito da sorte e sorteia uma frase da "sorte" contida num Array.
 
 HTML
  - Estruturas semânticas
